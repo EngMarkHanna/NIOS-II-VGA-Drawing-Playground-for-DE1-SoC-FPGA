@@ -1,1 +1,3 @@
 # NIOS-II-VGA-Drawing-Playground-for-DE1-SoC-FPGA
+
+The **NIOS-II VGA Drawing Playground for DE1-SoC FPGA** is an interactive system designed to enable users to draw shapes, select colors, and load images using a VGA interface. Leading a team of three, I implemented this system on the DE1-SoC FPGA, utilizing the NIOS-II processor for efficient control. The project incorporated interrupt-driven input handling via switches and pushbuttons, allowing precise user interaction. Functionality was rigorously tested and optimized using ModelSim, Eclipse, and Quartus Prime before deployment on the FPGA. Additionally, the system featured multiple drawing modes, color selection, and boundary constraints, enhancing user experience and functionality.
